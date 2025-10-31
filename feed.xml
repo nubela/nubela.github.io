@@ -3,12 +3,93 @@
     <title>The Lazy CEO</title>
     <link href="https://nubela.me/feed.xml" rel="self" />
     <link href="https://nubela.me" />
-    <updated>2025-04-17T17:41:40+08:00</updated>
+    <updated>2025-10-31T17:36:44+08:00</updated>
     <author>
         <name>Steven Goh</name>
     </author>
     <id>https://nubela.me</id>
 
+    <entry>
+        <title>How to rank on Google for any keyword</title>
+        <author>
+            <name>Steven Goh</name>
+        </author>
+        <link href="https://nubela.me/how-to-rank-on-google-for-any-keyword/"/>
+        <id>https://nubela.me/how-to-rank-on-google-for-any-keyword/</id>
+
+        <updated>2025-10-31T17:35:13+08:00</updated>
+            <summary>
+                <![CDATA[
+                    I have just launched NinjaPear. After the launch, I decided to dive headfirst into SEO marketing. After a considerable amount of time, I wrote and published this article with the intent to rank for the keyword “knowledge base software”. This article might or might not&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I have just launched <a href="https://nubela.co/blog/introducing-ninjapear/">NinjaPear</a>. After the launch, I decided to dive headfirst into SEO marketing. After a considerable amount of time, I wrote and published <a href="https://nubela.co/blog/introducing-ninjapear/">this article</a> with the intent to rank for the keyword “knowledge base software”. This article might or might not rank on Google after some time, <em>but</em> given that I published and had multiple articles rank for high value keywords during my time with Proxycurl and led a marketing team to continue this SEO growth trajectory, I think I know a thing or two about ranking.</p><p>It is simple to rank on Google, and there are no shortcuts. The secret is to be 10x better qualitatively relative to the ranked incumbents. In this article, I will break down how you can do this, with examples.</p><p>The SEO process is enshrined in this feedback loop:</p><ol>
+<li>Macro Keyword Research</li>
+<li>Keyword Prioritization (update or create new content)</li>
+<li>Micro Keyword Research</li>
+<li>Draft and publish content that is 10x qualitatively better</li>
+<li>Syndicate your content</li>
+<li>Track keywords</li>
+<li>(Go back to step 2)</li>
+</ol>
+<h2 id="getting-started">Getting Started</h2>
+<p>To get started, you will need:</p><ol>
+<li>A <strong>blog</strong> (I recommend a Ghost blog – free as in open-sourced, and featureful!) You will need a blog because that is the primary home for which you will publish content.</li>
+<li>Your own <strong>domain</strong> (important). Always publish content on your own domain. Even better if it is a mature domain; that means something you have used for a while so it has history. Domain reputation matters. If you lack history/reputation on a domain, you can build it up over time.</li>
+</ol>
+<p>Good to have but not necessary:</p><ul>
+<li>A good SEO tool that does things like keyword research and keyword rank tracking. Personally, I use Ahrefs.</li>
+</ul>
+<h2 id="1-macro-keyword-research">1. Macro Keyword Research</h2>
+<p>The first step to SEO is to understand what keywords are relevant to your <em>target audience</em> (I am going to assume you know who your target audience is). I usually do that by studying my competitors, which I can do quite easily with Ahrefs:</p><ul>
+<li>Enter competitor’s website into SEO tool</li>
+<li>Study which non-branded organic intent keywords they are ranking for (ranked by keyword traffic volume). I’d add keywords that are relevant to my business/product to the list of keywords that I’d target.</li>
+</ul>
+<p>I find that competing against a competitor helps me to focus my product vision remarkably. And the first step of the competition is to steal their readership away for any high-intent keywords that they are currently ranking for.</p><p>Anyways, do this for a couple of competitors you admire/wanna beat, and add keywords of interest into your SEO tool’s rank tracker.</p><h2 id="2-keyword-prioritization">2. Keyword Prioritization</h2>
+<p>You should have a list of keywords that you wish to rank for. However, you got to understand you cannot do everything at a time. You have to work one article at a time (assuming you’re doing this alone). Therefore, you have to prioritize which keywords to work on first.</p><p>The parameters of consideration are:</p><ul>
+<li>Keyword difficulty (google it)</li>
+<li>Keyword Intent – if a user is googling this keyword, would this user likely be a user who might use your product? I’d give you two examples on intent:  * It is best not to rank for “free [xxx]”, and instead, rank for “best [xxx]” because users who are seeking free things are likely not to convert.  * It is better to rank for “live chat” instead of “sexy bikini” because the type of audience you will get for the latter would not be relevant to what you are selling.</li>
+<li>Traffic volume – if you rank for this keyword, how many users will see it anyway? The more the better.</li>
+</ul>
+<p>Ideally, you want a keyword with low keyword difficulty, high keyword intent and high traffic volume. A caveat is that as your domain reputation increases, you’ll find that you’ll be able to tackle keywords with high keyword difficulty.</p><p>That said, based on the parameters above, you will want to prioritize keywords for action.</p><h2 id="3-micro-keyword-research">3. Micro Keyword Research</h2>
+<p>At this juncture, you should have a ranked list of keywords based on the keywords you want to work on. Now, you need to figure out what your competition is so you can build content that is 10x better! This is the straightforward part. Google the keyword you are targeting in an incognito window, and look at the top 10 results. This is your competition.</p><p>Click through each result, and read through every one of them and understand why they rank. Essentially, the top 10 results represent what the audience is looking for. Google has it all figured out. The question for this step is – after looking through the content that is ranked for the keyword you are targeting; how can you produce something that the user wants, but 10x better?</p><h2 id="4-draft-and-publish-content-that-is-10x-qualitatively-better">4. Draft and publish content that is 10x qualitatively better</h2>
+<p>This is the crucial step in the entire process, and it’s a step that I do not have a proven process that will work every time. Only tips coupled with examples. At this step, you should have:</p><ol>
+<li>A keyword you are building the content for</li>
+<li>An understanding of what type of content users want</li>
+</ol>
+<p>With these in mind, you should begin brainstorming how you can produce content that is 10x qualitatively better.</p><p><strong>Understanding my competition and what users want</strong></p><p>To explain how to build 10x content, we’ll look at the “knowledge base software” keyword. A quick Google search shows that the top 2 results are “Top <code>N</code>.. Knowledge Base Software” articles. The 3rd ranking is a series of Reddit posts on knowledge base software. Then results of Knowledge Base solutions such as <em>Helpjuice</em> or <em>Slite</em> are sprinkled amongst the top 10 results. I understand now that users are looking for potential knowledge base solutions as well as reviews to help them decide which to use.</p><p>So I looked into the #1 ranked article from Slite which says Top 8 Knowledge Base Software. Which is essentially a quick review of 8 software plus its definition of what Knowledge Base software is.</p><p><strong>How I can do better</strong></p><p>I think I can do better. And I decided that I can do better by:</p><ol>
+<li>Providing a clear definition of Knowledge Base Software sorted by needs.</li>
+<li>Breaking down each product review with ⭐ ratings.</li>
+<li>Reviewing more products.</li>
+<li>Coming from a point of thought leadership.</li>
+<li>Providing a Google Sheet for a user as a usable material for comparing products</li>
+<li>Showing screenshots</li>
+<li>Being even more detailed, but not lengthy for the sake of being lengthy.</li>
+<li>Being opinionated</li>
+<li>Providing a punchy title</li>
+<li>Providing an interactive and useful widget</li>
+</ol>
+<p>Now, if you look at <a href="https://nubela.co/blog/ultimate-guide-to-knowledge-base-software/">https://nubela.co/blog/ultimate-guide-to-knowledge-base-software/</a>, that is exactly what I did.</p><p><strong>Provide a punchy title</strong></p><p>I want to come from a position of authority and thought leadership, so my title is:</p><blockquote>
+<p>The CEO’s Ultimate Guide to Knowledge Base Software (Demo, UI Preview, Reviews, Pricing)</p></blockquote>
+<p>Just by reading this title, you know you are in for something solid from someone of power. Compare this to the current top article’s title:</p><blockquote>
+<p>Top 8 Knowledge Base Software for 2025</p></blockquote>
+<p><strong>Be opinionated</strong></p><p>People want to read from works written by another human, not AI. And the thing about being human is having a bias. At no point in time, do I shy away from the fact that I’m the founder of NinjaPear which provides a Knowledge Base software. And I also sprinkle my opinions throughout the article with thoughts like:</p><blockquote>
+<p>However, as a serial entrepreneur, I’m not sure it is smart to place secrets, internal discussions, and anything proprietary into a 3rd-party platform which might hold you hostage unless you cough up more money. Like what Slack, Gitlab, or Google Workspace has done to us before.</p></blockquote>
+<p>Or me hating on Zendesk:</p><blockquote>
+<p>On top of that, its onboarding form’s UX is terrible and inefficient with one field per page. On top of that, it is super expensive. I really don’t understand why anyone would want to use Zendesk other than for legacy reasons.</p></blockquote>
+<p>People enjoy reading opinionated thoughts. Give it to them! We’re not robots. Stop acting like one.</p><p><strong>Be even more detailed, but not lengthy for the sake of being lengthy.</strong></p><p>The title speaks for itself. I write because I have something to say. I do not want to drone on about something just to fill up word count. Don’t ever do that. People will bounce away when what you are writing is boring and lengthy.</p><p>That said, it can be lengthy because it actually has a lot of details. And when this happens, let your users skip ahead. It is why I always include a table of contents so users can skip ahead.</p><p>On top of that, you will see that I created custom screenshot widgets. I have 6-15 screenshots for each product review. If I were to list every screenshot, the page would be <em>super</em> long and users would bounce. So, I encapsulated each product’s bunch of screenshots as a widget that a user can go through, expand if they want to, or skip it entirely if they are not interested.</p><p><strong>Show screenshots</strong></p><p>People are visual creatures. Tell them by showing. Every bug that I found was enshrined with a screenshot. This made my review so much more real.</p><p><strong>Provide a Google Sheet for a user as a usable material in comparing products</strong></p><p>Give your users a freebie. Something to download.</p><p><strong>Come from a point of thought leadership</strong></p><p>This is really important. The same article written by a marketing executive VS a CEO. Which one would you prefer to read? Of course the CEO. Which is why I write all the pivotal articles when I first launch a product. And I make sure I tell my audience that. This is authority.</p><p>Thought Leadership means that you are an expert in your field. Your audience would rather listen to an expert in the industry VS a CEO in a radically different industry.</p><p><strong>Review more products.</strong></p><p>Yes, it is more work. But your audience wants to be thorough. Do the work for them. Review more products.</p><p><strong>Break down each product review with ⭐ ratings.</strong></p><p>I find that providing numerical star ratings really shows the thought that a reviewer puts into reviewing a product. So do this to show that you put in the work in reviewing every aspect of a product.</p><p><strong>Providing a clear definition of Knowledge Base Software sorted by needs.</strong></p><p>This was a flaw that I found in most of the articles I saw about Knowledge Base software. Because knowledge base software is not made equally. Many of them solve different problems. Why do we lump them under a single category? So, I branched them into various segments. For customers VS for internal use; Technical knowledge VS Product knowledge. Etc. It all boils down to actually understanding the topic.</p><p><strong>Provide an interactive and useful widget</strong></p><p>This is really important and I found articles that included a useful and interactive widget performed much better from my time at Proxycurl. It improves interaction which I think Google likes, and it lets the user know that you are truly providing something of value. This is a must-have as much as possible.</p><p>Now, if you put all these iterative improvements together, they compound, and you get a 10x better piece of content.</p><h2 id="5-syndicate-your-content">5. Syndicate your content</h2>
+<p>After posting your content, you got to seed your content with some audience/reach. What I’d recommend doing is to:</p><ul>
+<li>Share your content on various social media platforms:  * X  * LinkedIn  * Reddit  * Hacker News</li>
+<li>Syndicate it on other blog sites and make sure that there is a canonical tag  * Medium  * etc</li>
+</ul>
+<h2 id="6-track-keywords">6. Track keywords</h2>
+<p>Once you are done publishing and syndicating the content piece, there is nothing you can do except to wait and hope for the best. You cannot do more. Just work on the next article. Volume of content matters because it is a numbers game. Pareto principle applies. 20% of your articles will rank and 80% will not regardless of your quality.</p><h2 id="content-as-product">Content as Product</h2>
+<p>Lastly, I hope you see that content is another product in your company’s portfolio. Do it as well as your main product and you’ll see results.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Why suing Amara and earning credit card miles is of the same limiting mindset</title>
         <author>
