@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://nubela.me/ai/",
+            "url": "https://nubela.me/ai/",
+            "title": "AI",
+            "summary": "After sitting through three fads—namely “cloud,” “mobile,” and “blockchain”—I decided that this time, I’d take a back seat and not ride the current AI wave or be washed away by the hype. Now that things have matured significantly and I have been heavily experimenting with&hellip;",
+            "content_html": "<p>After sitting through three fads—namely “cloud,” “mobile,” and “blockchain”—I decided that this time, I’d take a back seat and not ride the current AI wave or be washed away by the hype. Now that things have matured significantly and I have been heavily experimenting with LLMs, I have to say: LLMs are a huge game changer. It is the same way smartphones brought the internet everywhere we go, or how gambling found a new face in memecoins, or how most companies no longer manage servers and instead use AWS.</p><p>Here is what is going to be true:</p><ol>\n<li><strong>I no longer need junior developers.</strong> I do still need senior developers to make decisions, though. I now manage a Kubernetes cluster at home and self-host everything. Bye, cloud.</li>\n<li><strong>My need to hire administrative staff has reduced by 95%</strong>. I just did some accounting with Xero and had Claude “cowork” and do all the reconciling for me. And just so you know, the concept of account code reconciling was alien to me two days ago. Thanks, Gemini, for teaching me all about Xero.</li>\n</ol>\n<p>These are just two things that have changed the face of my professional life—significant cost centers for me. I am sure there will be a thousand more things that will change, and I embrace these changes. The common theme among what will change is <em>grunt work</em>. Good riddance.</p><p>That said, what is more interesting is what won’t change. Sales and influencing are likely to remain the same. People control the purse strings. And while AI might massage your ego and persuade you, nothing beats the assurance of a warm body. Influencing—the modern term for marketing and advertising—is likely to continue to grow. And yes, I have been tempted a couple of times to start an influencer management consultancy in light of my expectation for continued growth in influencing.</p><p>I have read on various platforms that some engineers are freaking out at the pace of change and the fear of being obsolete in the face of the new AI overlords. I share no such feelings. I’ll be happily paying $150/month for Claude Max and enjoying my cheap (close to free) Gemini AI as I begin churning out SaaS ideas, which I know will be rock solid and cost me zero new engineers to hire. I feel very little need to hire people to implement, scale, and test my upcoming product prototypes.</p><p>As of now, what AI cannot take away is creativity and thinking out of the box. I cannot speak for the future, but boy, do I love this timeline as a repeat founder living in the AI world.</p><p>PS: I also stopped needed Grammarly because I just prompted Gemini with:</p><blockquote>\n<p>Can you fix my blog post of english errors. Notably grammar and sentence structure issues (if any). DO NOT CHANGE THE TONE OF MY WRITING.</p></blockquote>\n<blockquote>\n<p>Respond only with the blog post in markdown format in a way that I can copy/paste and publish.</p></blockquote>\n",
+            "author": {
+                "name": "Steven Goh"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-14T11:12:45+08:00",
+            "date_modified": "2026-01-14T11:14:18+08:00"
+        },
+        {
             "id": "https://nubela.me/ninjapears-pursuit-of-product-market-fit-part-1/",
             "url": "https://nubela.me/ninjapears-pursuit-of-product-market-fit-part-1/",
             "title": "NinjaPear&#x27;s Pursuit of Product Market Fit, Part 1.",
